@@ -1,0 +1,43 @@
+﻿# Game English translation.
+# Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Game\n"
+"POT-Creation-Date: 2019-09-30 08:49\n"
+"PO-Revision-Date: 2019-09-30 08:49\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Key:	3C38643A4130ACD2F928A7B8F9C3634F
+#. SourceLocation:	/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.TextRenderActor_1.NewTextRenderComponent.Text
+#: /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.TextRenderActor_1.NewTextRenderComponent.Text
+msgctxt ",3C38643A4130ACD2F928A7B8F9C3634F"
+msgid "Third Person"
+msgstr "Third Person"
+
+#. Key:	Show Console
+#. SourceLocation:	Source/PakTest/SMyCompoundWidget.cpp:81
+#: Source/PakTest/SMyCompoundWidget.cpp:81
+msgctxt "PakTestUI,Show Console"
+msgid "Show Console"
+msgstr "Show Console"
+
+#. Key:	Show Console Test
+#. SourceLocation:	Source/PakTest/MyPlayerController.cpp:89
+#: Source/PakTest/MyPlayerController.cpp:89
+msgctxt "PakTestUI,Show Console Test"
+msgid "Show Console Test"
+msgstr "测绘中文字符"
+
+#. Key:	TextBlockDefaultValue
+#. SourceLocation:	/Game/UI/DownloadList.DownloadList_C:WidgetTree.TextBlock_188.Text
+#: /Game/UI/DownloadList.DownloadList_C:WidgetTree.TextBlock_188.Text
+msgctxt "UMG,TextBlockDefaultValue"
+msgid "Text Block"
+msgstr "Text Block"
+
