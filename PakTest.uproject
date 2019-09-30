@@ -1,0 +1,20 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{56447EB9-45EA-029D-CC59-E289A6804A30}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "PakTest",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"CoreUObject",
+        "UMG",
+        "Slate",
+        "SlateCore"
+			]
+		}
+	]
+}
